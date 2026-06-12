@@ -1,5 +1,10 @@
-# Skill: base-liquidity-deployment-planner
-> Turn approved Base liquidity opportunities into concrete deployment plans with position sizing, reserve treatment, strategy mix, and portfolio-aware allocation logic. Use when one or more pools already passed scoring and you need to decide how much capital to deploy, how to split it, what reserve to keep back, and how the plan fits LEDGR portfolio constraints.
+---
+name: base-liquidity-deployment-planner
+description: Turn approved Base liquidity opportunities into concrete deployment plans with position sizing, reserve treatment, strategy mix, and portfolio-aware allocation logic.
+tags: [liquidity, base, planning, allocation]
+version: 2.0.0
+visibility: public
+---
 
 # Base Liquidity Deployment Planner
 
